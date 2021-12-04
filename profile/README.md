@@ -38,4 +38,6 @@ All playbooks should start with **playbook-** suffix
 
 ### LICENSE 
 
+[![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue?logo=github&color=brightgreen)](https://apache.org/licenses/LICENSE-2.0.txt)
+
 all roles and playbooks are under **`Apache License, Version 2.0`**
