@@ -6,22 +6,6 @@ ansible roles and playbooks by [@sujaykumarh](https://github.com/sujaykumarh)
 
 <br>
 
-## INDEX
-<!-- ### Available Plays -->
-
-<!-- - [playbook-name](https://github.com/sujaykumarh-ansible/playbook-name) -->
-<!-- - [playbook-name](https://github.com/sujaykumarh-ansible/playbook-name) -->
-
-<br>
-
-<!-- ### Available roles -->
-
-<!-- - [role-name](https://github.com/sujaykumarh-ansible/role-name) -->
-<!-- - [role-name](https://github.com/sujaykumarh-ansible/role-name) -->
-
-
-<br>
-
 **INFO**
 
 All roles should start with **role-** suffix
