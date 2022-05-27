@@ -1,17 +1,23 @@
-# .github
+<div align="center">
 
-<!-- about me visit [sujaykumarh.com](https://sujaykumarh.com?utm_source=github&utm_medium=ansible-repo&utm_campaign=github-profile) -->
+# .github repo
 
-this repo contains GitHub profile and [Commuinity Health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+this repo contains [GitHub profile](https://github.com/sujaykumarh-ansible) and [Commuinity Health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
 
-<br>
+---
 
-[LICENSE](https://ansible.sujaykumarh.com/license) •
+<sub>
+
+[LICENSE](https://github.com/sujaykumarh-ansible/playbook-template/blob/main/LICENSE) •
 [DISCLAIMER](https://github.com/sujaykumarh-ansible/.github/blob/main/DISCLAIMER.md) •
-[DOCS](https://ansible.sujaykumarh.com/?utm_source=github&utm_medium=readme&utm_campaign=view-notebook) •
+[SECURITY](https://github.com/sujaykumarh-ansible/.github/blob/main/SECURITY.md) •
+[DOCUMENTATION](https://ansible.sujaykumarh.com/plays/template/?utm_source=github&utm_medium=readme&utm_campaign=view-notebook) •
 [CONTRIBUTING](https://github.com/sujaykumarh-ansible/.github/blob/main/CONTRIBUTING.md)
 
-<!-- • -->
+</sub>
+</div>
+
+---
 
 <br>
 
@@ -43,7 +49,5 @@ All contributions are welcome. please follow [contributing guide](https://github
 <br>
 
 ## Other
-
-Before you start [read about prerequisites](https://ansible.sujaykumarh.com/prerequisites/)
 
 About me: [@sujaykumarh](https://sujaykumarh.com/?utm_source=github&utm_medium=ansible-repo&utm_campaign=github-profile)
