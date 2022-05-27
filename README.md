@@ -8,7 +8,7 @@ this repo contains [GitHub profile](https://github.com/sujaykumarh-ansible) and 
 
 <sub>
 
-[LICENSE](https://github.com/sujaykumarh-ansible/playbook-template/blob/main/LICENSE) •
+[LICENSE](https://github.com/sujaykumarh-ansible/.github/blob/main/LICENSE) •
 [DISCLAIMER](https://github.com/sujaykumarh-ansible/.github/blob/main/DISCLAIMER.md) •
 [SECURITY](https://github.com/sujaykumarh-ansible/.github/blob/main/SECURITY.md) •
 [DOCUMENTATION](https://ansible.sujaykumarh.com/?utm_source=github&utm_medium=readme&utm_campaign=view-notebook) •
