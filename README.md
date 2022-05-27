@@ -11,7 +11,7 @@ this repo contains [GitHub profile](https://github.com/sujaykumarh-ansible) and 
 [LICENSE](https://github.com/sujaykumarh-ansible/playbook-template/blob/main/LICENSE) •
 [DISCLAIMER](https://github.com/sujaykumarh-ansible/.github/blob/main/DISCLAIMER.md) •
 [SECURITY](https://github.com/sujaykumarh-ansible/.github/blob/main/SECURITY.md) •
-[DOCUMENTATION](https://ansible.sujaykumarh.com/plays/template/?utm_source=github&utm_medium=readme&utm_campaign=view-notebook) •
+[DOCUMENTATION](https://ansible.sujaykumarh.com/?utm_source=github&utm_medium=readme&utm_campaign=view-notebook) •
 [CONTRIBUTING](https://github.com/sujaykumarh-ansible/.github/blob/main/CONTRIBUTING.md)
 
 </sub>
