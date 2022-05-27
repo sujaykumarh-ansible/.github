@@ -4,7 +4,8 @@ SECURITY OF YOUR SYSTEMS IS YOUR RESPONSIBILITY AND YOU SHOULD NOT USE ANY OF PR
 
 These projects are not affiliated with the Ansible project in any way, but insted uses [ansible](https://github.com/ansible/ansible) as dependency to work.
 
-**Note:** [sujaykumarh-ansible](https://github.com/sujaykumarh-ansible) projects use ansible to setup, configure, and manage infrastructure and applications. its purpose is to help people learn ansible and to help people contribute to the open source community, and help setup and configure their own infrastructure and applications using ansible.
+**Note:** [sujaykumarh-ansible](https://github.com/sujaykumarh-ansible) projects use ansible to setup, configure, and manage systems, infrastructure and applications, and its purpose is to help anyone learn ansible, and to help guide them to setup and configure their own systems, infrastructure and applications using ansible, in a simple and easy way.
+
 
 Do support the [ansible](https://github.com/ansible) project and its community.
 
